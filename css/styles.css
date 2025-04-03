@@ -105,6 +105,49 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.botao2 {
+  margin-left: 65px;
+  margin-bottom: 10px;
+  background-color: #4F260A;
+  border: solid #e6a756 1px;
+  color: #e6a756;
+  border-radius: 3px;
+  width: 100px;
+  height: 50px;
+}
+.botao3 {
+  margin-left: 30px;
+  background-color: #4F260A;
+  border: solid #e6a756 1px;
+  color: #e6a756;
+  border-radius: 3px;
+  width: 100px;
+  height: 50px;
+}
+
+#caixa2 {
+  padding: 5px;
+  margin: auto;
+  width: auto;
+  background-color: #b88645;
+  width: 170px;
+  height: 60x;
+  border: solid #4F260A 2px;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+
+#caixa {
+  margin: auto;
+  width: auto;
+  background-color: #b88645;
+  width: 400px;
+  height: 40x;
+  border: solid #4F260A 2px;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
